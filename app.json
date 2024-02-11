@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a1e5e41e-ff70-4297-a39f-014f07b6b74f"
+      }
+    },
+    "owner": "leoye"
   }
 }
