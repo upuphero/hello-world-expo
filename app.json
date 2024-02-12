@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.leoye.helloworld"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,6 +32,23 @@
         "projectId": "a1e5e41e-ff70-4297-a39f-014f07b6b74f"
       }
     },
-    "owner": "leoye"
+    "owner": "leoye",
+    "runtimeVersion": {
+      "expo": {
+        "runtimeVersion": {
+          "policy": "appVersion"
+        },
+        "version": "1.0.0",
+        "ios": {
+          "buildNumber": "1"
+        },
+        "android": {
+          "versionCode": 1
+        }
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a1e5e41e-ff70-4297-a39f-014f07b6b74f"
+    }
   }
 }
